@@ -1,0 +1,53 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+*.class
+a.out
+
+# Compiler generated files
+*.o
+*.obj
+*.so
+*.dll
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.pytest_cache/
+venv/
+env/
+
+# Java
+*.jar
+*.war
+target/
+
+# C++
+*.gch
+*.pch
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Input/output test files (optional - uncomment if you want to ignore them)
+# input.txt
+# output.txt
+# *.in
+# *.out
+
+# Personal notes (optional - uncomment if you want to ignore them)
+# notes.md
+# TODO.md
