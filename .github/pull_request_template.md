@@ -39,7 +39,11 @@ Expected:
 **Edge Cases Handled:**
 - [ ] Empty input
 - [ ] Single element
-- [ ] Large input
+- [ ] Duplicate elements
+- [ ] Negative numbers
+- [ ] Large input (boundary values)
+- [ ] Integer overflow conditions
+- [ ] Minimum/Maximum constraints
 - [ ] Other: _______
 
 ---

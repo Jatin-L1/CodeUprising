@@ -36,7 +36,8 @@ class Solution:
             # Add current number to map
             num_map[num] = i
         
-        # No solution found (shouldn't happen based on problem constraints)
+        # No solution found - this line ensures function returns a value
+        # but should never execute as problem guarantees exactly one solution exists
         return []
 
 # Example Usage

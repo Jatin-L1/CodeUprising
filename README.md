@@ -87,7 +87,24 @@ mkdir -p LeetCode/Hard/Problem_Number_Problem_Name
 **solution.ext** (your code file)
 ```cpp
 // Example: solution.cpp
-// Your solution code here
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class Solution {
+public:
+    // Your solution function here
+    int solve() {
+        // Your code
+        return 0;
+    }
+};
+
+int main() {
+    Solution sol;
+    // Test cases
+    return 0;
+}
 ```
 
 **README.md** (problem documentation)
